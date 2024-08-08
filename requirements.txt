@@ -1,0 +1,8 @@
+discord.py
+discord
+cloudscraper 
+numpy 
+scikit-learn 
+xgboost
+uuid
+flask
